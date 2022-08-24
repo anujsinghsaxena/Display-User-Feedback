@@ -24,3 +24,6 @@ As a part of developing an ecommerce web application, a REST resource is needed 
 ● Data received in the REST controller will be then saved into the database.
 ● Create a test form in HTML to submit data to the REST endpoint to ensure it’s working.
 ● The step-by-step process involved in completing this task should be documented.
+
+![Screenshot (193)](https://user-images.githubusercontent.com/87662840/186459267-55e65f18-d88b-490a-8dd5-f2a5a25de118.png)
+![Screenshot (194)](https://user-images.githubusercontent.com/87662840/186459325-55b0872a-892d-497e-84c3-d8ed4a2621ef.png)
